@@ -1,0 +1,51 @@
+# Flutter
+.dart_tool/
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Build
+build/
+*.apk
+*.aab
+*.ipa
+*.dmg
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.mc
+*.mbp.*
+*.objext/
+*.pro.user
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+flutter_logs/
+
+# Temporary
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Secrets
+.env
+.env.local
+*.secret
+*.key
+
+# Test
+coverage/
+test_report.json
+
+# Generated
+web/manifest.json
+web/flutter_service_worker.js
