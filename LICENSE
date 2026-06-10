@@ -1,0 +1,47 @@
+MIT License
+
+Copyright (c) 2026 Moe Kyaw Aung 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+## 📄 License
+
+MIT License - See [LICENSE](LICENSE)
+
+## 👤 Author
+
+**Moe Kyaw Aung**
+- 📍 Tachileik, Myanmar ↔ Bangkok, Thailand
+- 📧 moekyawaung@programmer.net
+- 💼 [LinkedIn](https://linkedin.com/in/moe-kyaw-aung-2653093a1)
+- 🖥️ [GitHub](https://github.com/Dev-moe-kyawaung)
+- 📱 40+ Projects, 82+ Certifications
+
+## 🏆 Version History
+
+| Version | Features |
+|---------|----------|
+| V1 | Basic portfolio |
+| V2 | Dark/Light themes, animations |
+| V3 | 3D effects, PWA |
+| V4 | Enterprise architecture, analytics |
+| **V5** | **AI Neural, Quantum, 5 themes, 60 FPS** |
+
+## 🙏 Acknowledgments
+
+Built with ❤️ using Flutter & Dart
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
