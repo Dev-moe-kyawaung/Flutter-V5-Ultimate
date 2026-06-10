@@ -29,6 +29,18 @@
 
 ## 🚀 Quick Start
 
+Mobile Browser Deployment
+# 1. Push to GitHub
+git add .
+git commit -m "Deploy V5 Ultimate"
+git push origin main
+
+# 2. GitHub Actions will automatically deploy
+# 3. Open on mobile: https://Dev-Moe-kyawaung.github.io
+
+# 4. Install as PWA
+# - Tap browser menu → "Install App"
+# - OR tap "Install Ultimate V5" prompt
 ### Installation
 
 ```bash
