@@ -24,7 +24,7 @@ dependencies:
   shared_preferences: ^2.2.2
   
   # Web
-  web: ^1.0.0
+  web: ^0.5.1
 
 dev_dependencies:
   flutter_test:
