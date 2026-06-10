@@ -1,0 +1,27 @@
+#!/bin/bash
+# deploy-v5.sh - Complete Deployment Script
+
+echo "🚀 Deploying Flutter V5 Ultimate..."
+
+# 1. Clean build
+flutter clean
+flutter pub get
+
+# 2. Test
+flutter test
+
+# 3. Build
+flutter build web --release
+
+# 4. Verify
+echo "📊 Build Size: $(du -sh build/web/ | cut -f1)"
+echo "📁 Files: $(find build/web -type f | wc -l)"
+
+# 5. Commit
+git add .
+git commit -m "🚀 Deploy V5 Ultimate - [DATE]"
+git push origin main
+
+echo "✅ Deployment Complete!"
+echo "📍 URL: https://moekyawaung-tech.github.io"
+echo "📱 Install: Tap 'Install Ultimate V5' prompt"
