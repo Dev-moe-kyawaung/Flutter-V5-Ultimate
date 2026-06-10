@@ -1,0 +1,50 @@
+name: premium_portfolio_v5
+description: Ultimate Portfolio V5 - AI-Powered Quantum Edition
+version: 5.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.19.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # UI & Animation
+  flutter_animate: ^4.3.0
+  haptic_feedback: ^0.5.1
+  
+  # Navigation & Links
+  url_launcher: ^6.2.4
+  
+  # State Management
+  provider: ^6.1.2
+  
+  # Storage
+  shared_preferences: ^2.2.2
+  
+  # Web
+  web: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/sounds/click.mp3
+    - assets/images/
+  
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: fonts/Inter-Regular.ttf
+        - asset: fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: fonts/Inter-Bold.ttf
+          weight: 700
+        - asset: fonts/Inter-Black.ttf
+          weight: 900
