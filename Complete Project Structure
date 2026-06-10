@@ -1,0 +1,28 @@
+moekyawaung-portfolio-v5/
+├── .github/
+│   └── workflows/
+│       ├── mobile-deploy.yml          # Main deployment workflow
+│       ├── mobile-build.yml           # Build pipeline
+│       ├── mobile-test.yml            # Testing pipeline
+│       ├── mobile-pwa.yml             # PWA generation
+│       └── mobile-optimization.yml    # Optimization checks
+├── public/
+│   ├── manifest.json                  # PWA manifest
+│   ├── _redirects                     # URL redirects
+│   ├── mobile.html                    # Mobile redirect
+│   └── index.html                     # Landing page
+├── assets/
+│   ├── sounds/
+│   │   └── click.mp3                  # Click sound
+│   └── images/
+│       └── profile.png                # Profile image
+├── lib/
+│   └── main.dart                      # Flutter V5 Ultimate
+├── web/
+│   ├── manifest.json                  # Web manifest
+│   ├── flutter_service_worker.js      # Service worker
+│   └── index.html                     # Main HTML
+├── .gitignore
+├── pubspec.yaml
+├── README.md
+└── SECURITY.md
