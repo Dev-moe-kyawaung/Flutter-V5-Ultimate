@@ -29,6 +29,7 @@
 
 ## 🚀 Quick Start
 
+```bash
 Mobile Browser Deployment
 # 1. Push to GitHub
 git add .
@@ -42,6 +43,62 @@ git push origin main
 # - Tap browser menu → "Install App"
 # - OR tap "Install Ultimate V5" prompt
 ### Installation
+````
+###
+
+## 📱 Mobile Installation
+
+### Chrome/Samsung Internet
+1. Open `https://moekyawaung-tech.github.io`
+2. Tap menu (⋮) → "Install app"
+3. Confirm installation
+
+### Safari (iOS)
+1. Open `https://moekyawaung-tech.github.io`
+2. Tap share button (⊞)
+3. Tap "Add to Home Screen"
+4. Confirm
+
+## 🎨 Themes
+
+| Theme | Color | Description |
+|-------|-------|-------------|
+| **Quantum** | Purple | Default premium |
+| **Neon** | Green | Cyberpunk style |
+| **Coral** | Pink | Colorful & vibrant |
+| **Minimal** | Black | Clean & simple |
+| **Cyber** | Cyan | Tech futuristic |
+
+## 📊 Performance
+
+- **FPS**: 60+ (real-time monitored)
+- **Load Time**: < 2s
+- **Memory**: < 150MB
+- **Size**: ~2MB
+- **Offline**: ✅ Yes (Service Worker)
+
+## 🔧 CI/CD Pipeline
+
+```yaml
+Pipeline Steps:
+1. ✅ Quality Check → Format, Analyze, Test, Security
+2. 🏗️ Build Mobile → Flutter web build
+3. 📲 Generate PWA → Manifest, Service Worker, Icons
+4. 🧪 Performance Test → Lighthouse, Mobile metrics
+5. 🚀 Deploy → GitHub Pages
+6. 📦 Build APK → Optional mobile app
+```
+
+## 🛠️ Technologies
+
+- **Flutter** 3.19.0
+- **Dart** 3.0.0
+- **Provider** 6.1.2 (State Management)
+- **Flutter Animate** 4.3.0 (Animations)
+- **Haptic Feedback** 0.5.1 (Touch feedback)
+- **URL Launcher** 6.2.4 (Links)
+- **Shared Preferences** 2.2.2 (Storage)
+- 
 
 ```bash
 # 1. Clone repository
